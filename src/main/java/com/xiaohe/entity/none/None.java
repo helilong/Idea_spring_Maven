@@ -2,7 +2,7 @@ package com.xiaohe.entity.none;
 
 import org.springframework.stereotype.Component;
 
-@Component("none")
+@Component
 public class None {
     private int id;
     private  String name = "xiaohe2";

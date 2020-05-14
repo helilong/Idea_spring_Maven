@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="User" class="com.xiaohe.entity.User">
+
+    </bean>
+
+    <bean id="HelloWorldBean" class="com.xiaohe.entity.HelloWorld">
+        <property name="info" value="xiaohe"></property>
+    </bean>
+
+    <bean id="bean1" class="com.xiaohe.entity.ioc.bean1" init-method="bean">
+
+    </bean>
+
+    <bean id="yell" class="com.xiaohe.entity.Yell"></bean>
+    <bean id="cat" class="com.xiaohe.entity.Cat" lazy-init="true">
+      <constructor-arg>
+          <ref bean="yell"></ref>
+      </constructor-arg>
+    </bean>
+
+
+    <bean id="typeDemo" class="com.xiaohe.entity.TypeDemo">
+        <property name="string" value="xiaohe "></property>
+        <property name="list">
+            <list>
+                <value>xiaohe1</value>
+                <value>xiaohe2</value>
+            </list>
+        </property>
+        <property name="set">
+            <set>
+                <value>xiaohe3</value>
+                <value>xiaohe4</value>
+            </set>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="1" value="xiaohe5"></entry>
+                <entry key="2"><value>xiaohe6</value></entry>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="1">xiaohe7</prop>
+                <prop key="2">xiaohe8</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="message" class="com.xiaohe.entity.Message"></bean>
+    <bean id="hello" class="com.xiaohe.entity.Hello" init-method="init">
+        <property name="message" ref="message"></property>
+    </bean>
+
+
+    <bean id="hello2" class="com.xiaohe.entity.Hello2" destroy-method="close">
+        <property name="message" ref="message"></property>
+    </bean>
+
+
+
+
+
+
+
+
+
+
+
+
+</beans>

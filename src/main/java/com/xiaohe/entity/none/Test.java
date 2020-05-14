@@ -9,6 +9,6 @@ public class Test {
         NoneTest noneTest = (NoneTest) applicationContext.getBean("noneTest");
         System.out.println(noneTest.getName());
         System.out.println(noneTest.getNone());
-        System.out.println(noneTest.getId());
+
     }
 }

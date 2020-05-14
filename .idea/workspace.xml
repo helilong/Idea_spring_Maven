@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39068766-21df-48cb-b47e-9600f1429c39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/xiaohe/assemble/bean/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/xiaohe/assemble/bean/BeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/xiaohe/assemble/bean/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/bean4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaSpringMaven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IdeaSpringMaven.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaohe/entity/none/None.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaohe/entity/none/None.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaohe/entity/none/NoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaohe/entity/none/NoneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaohe/entity/none/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaohe/entity/none/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xyz/xiaohe/assemble/Cfq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/xiaohe/assemble/Cfq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xyz/xiaohe/assemble/test/TestAss2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/xiaohe/assemble/test/TestAss2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean3.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1btwuajpIjxwgK63vfeAGc3eCC5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaohe.entity.none.Test" />
+      <module name="IdeaSpringMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaohe.entity.none.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.xiaohe.assemble.bean.Test" />
+      <module name="IdeaSpringMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.xiaohe.assemble.bean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAss2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.xiaohe.assemble.test.TestAss2" />
+      <module name="IdeaSpringMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.xiaohe.assemble.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_zhuru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaohe.entity.test.Test_zhuru" />
+      <module name="IdeaSpringMaven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaohe.entity.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestAss2" />
+        <item itemvalue="Application.Test_zhuru" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39068766-21df-48cb-b47e-9600f1429c39" name="Default Changelist" comment="" />
+      <created>1589464921018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589464921018</updated>
+      <workItem from="1589464922310" duration="6212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589465691479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1589465691479" />
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1589469002767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1589469002767" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1589465729604">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1589465729604" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1589471383515">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589471383515" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1589471383515">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589471383515" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1589471383515">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589471383515" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1589471383515">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589471383515" />
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom" timestamp="1589468627210">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589468627210" />
+    <state width="1493" height="256" key="GridCell.Tab.1.center" timestamp="1589468627209">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589468627209" />
+    <state width="1493" height="256" key="GridCell.Tab.1.left" timestamp="1589468627209">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589468627209" />
+    <state width="1493" height="256" key="GridCell.Tab.1.right" timestamp="1589468627210">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="256" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589468627210" />
+    <state x="270" y="62" key="SettingsEditor" timestamp="1589465444697">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589465444697" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/xiaohe/entity/test/Test_zhuru.java</url>
+          <line>8</line>
+          <properties class="com.xiaohe.entity.test.Test_zhuru" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/xyz/xiaohe/assemble/test/TestAss2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

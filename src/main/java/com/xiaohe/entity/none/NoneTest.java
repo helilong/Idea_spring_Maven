@@ -1,9 +1,9 @@
 package com.xiaohe.entity.none;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component("noneTest")
+@Service
 public class NoneTest {
     private  int id;
     private String name = "xiaohe";
