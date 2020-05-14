@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="message" class="xyz.xiaohe.assemble.Message"></bean>
+    <bean id="hello" class="xyz.xiaohe.assemble.HelloWorld">
+        <property name="message" ref="message"></property>
+    </bean>
+
+    <bean id="helilong" class="xyz.xiaohe.assemble.Helilong">
+        <property name="name" value="贺利龙"></property>
+    </bean>
+    <bean id="cfq" class="xyz.xiaohe.assemble.Cfq" autowire="byName"></bean>
+
+</beans>
